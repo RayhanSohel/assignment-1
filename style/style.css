@@ -265,3 +265,52 @@ nav .nav-btn a{
     line-height: 19px;
     letter-spacing: 0%;
 }
+
+/* SECTION SIX (Newsletter) START */
+.sec-six {
+    padding: 0px 150px;
+    
+}
+
+.sec-six .sec-six-main {
+    padding: 0px 97px;
+    margin: 0px 97px;
+    height: 314px;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 16px;
+}
+
+#newsletter-content h1 {
+    color: #FFFFFF;
+}
+
+.sec-six #newsletter-content p {
+    color: #FFFFFF;
+}
+
+.sec-six .sec-three-form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.sec-six .sec-three-formInput {
+    width: 548px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.sec-six .sec-three-formBtn {
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    
+}
+
