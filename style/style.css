@@ -269,7 +269,6 @@ nav .nav-btn a{
 /* SECTION SIX (Newsletter) START */
 .sec-six {
     padding: 0px 150px;
-    
 }
 
 .sec-six .sec-six-main {
@@ -314,3 +313,14 @@ nav .nav-btn a{
     
 }
 
+/* FOOTER START */
+.footer-main {
+    padding: 20px 247px;
+    background-color: ;
+    margin-top: 74px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+    background: #0d132108;
+}
